@@ -77,7 +77,6 @@ static void __exit exit_hello(void)
 		list_del(&list->node);
 		kfree(list);
 	}
-	BUG_ON(!list_empty(&head_node));
 
 	pr_info("hello1 exit\n");
 }
