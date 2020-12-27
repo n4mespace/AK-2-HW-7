@@ -9,7 +9,7 @@
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Zakharchuk IV-82\n");
-MODULE_DESCRIPTION("AK-2 lab_6 (advanced task): hello1.c\n");
+MODULE_DESCRIPTION("AK-2 lab_7: hello1.c\n");
 
 struct timeit_list {
 	struct list_head node;

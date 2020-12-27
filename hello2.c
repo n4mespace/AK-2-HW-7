@@ -8,7 +8,7 @@
 #include <hello1.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_DESCRIPTION("AK-2 lab_6 (advanced task): hello2.c\n");
+MODULE_DESCRIPTION("AK-2 lab_7: hello2.c\n");
 MODULE_AUTHOR("Zakharchuk IV-82\n");
 
 static uint n = 1;
